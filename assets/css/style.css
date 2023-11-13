@@ -58,3 +58,12 @@ button{
     align-items: center;
     justify-content: center;
 }
+
+.container2>button{
+    padding: 0% 10px;
+    width: 100px;
+}
+button>a{
+    text-decoration: none;
+    font-weight: bold;
+}
